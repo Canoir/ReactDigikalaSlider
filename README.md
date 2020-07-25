@@ -1,3 +1,3 @@
 # ReactDigikalaSlider
 The Main Screen of Digikala Slider with React
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo Doccou alpha](https://github.com/Canoir/ReactDigikalaSlider/blob/master/prev.gif)](https://github.com/Canoir/ReactDigikalaSlider/)
